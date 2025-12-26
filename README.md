@@ -1,0 +1,2 @@
+# UPC_oilfield_special_vehicles_design
+本仓库源于中国石油大学（华东）（UPC）车辆工程专业综合设计——油田用钢制连续抽油杆作业车设计，在对石油特车的动力性与轴载荷分配的计算过程中所使用的python代码
